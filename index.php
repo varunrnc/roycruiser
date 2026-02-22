@@ -4,7 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Home - Roy Cruiser</title>
+  <title>Roy Cruiser | Self Drive Guided Road Trips | Road Trips | International Road Trips</title>
+  <meta name="description" content="Roy Cruiser organises Self Drive Guided Road Trips across India and Internationally as well.
+We have expertises of Off Road, Himalayan, snow , wildlife and cross border Adventures and road trips.">
   <?php include_once('./header-links.php') ?>
 </head>
 
@@ -45,7 +47,7 @@
 
     <div class="container text-center hero-content" data-aos="fade-up">
       <h2 class="hero-title">500000+ KM Driven Across Multiple Countries</h2>
-      <a href="#" class="btn btn-danger hero-btn">Read More</a>
+      <a href="roy-cruiser.php" class="btn-read-more">Explore Now</a>
     </div>
   </section>
   <section class="hero-section2 d-flex align-items-end">

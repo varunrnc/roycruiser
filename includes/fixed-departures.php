@@ -13,7 +13,7 @@
         class="shape3 position-absolute" />
     <div class="container-fluid">
         <div class="departures-header text-center" data-aos="fade-up">
-            <h2 class="departures-title">Fixed Departures</h2>
+            <h2 class="trusted-title">Fixed Departures</h2>
             <p class="departures-subtitle">
                 Explore the world with the best community of travelers on our guided
                 self-drive road trips.
@@ -48,7 +48,7 @@
                                     </div>
                                     <div class="d-flex justify-content-between departure-btn-wrap my-3">
                                         <button class="btn-enquire-more-sm departure-btn m-1">Enquire Now</button>
-                                        <button class="btn-view-trip-sm departure-btn m-1">View Trip</button>
+                                        <a href="bengaluru-to-ladakh.php" class="btn-view-trip-sm departure-btn m-1">View Trip</a>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="d-flex justify-content-between departure-btn-wrap my-3">
                                         <button class="btn-enquire-more-sm departure-btn m-1">Enquire Now</button>
-                                        <button class="btn-view-trip-sm departure-btn m-1">View Trip</button>
+                                        <a href="bengaluru-to-ladakh.php" class="btn-view-trip-sm departure-btn m-1">View Trip</a>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@
                                     </div>
                                     <div class="d-flex justify-content-between departure-btn-wrap my-3">
                                         <button class="btn-enquire-more-sm departure-btn m-1">Enquire Now</button>
-                                        <button class="btn-view-trip-sm departure-btn m-1">View Trip</button>
+                                        <a href="bengaluru-to-ladakh.php" class="btn-view-trip-sm departure-btn m-1">View Trip</a>
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@
                                     </div>
                                     <div class="d-flex justify-content-between departure-btn-wrap my-3">
                                         <button class="btn-enquire-more-sm departure-btn m-1">Enquire Now</button>
-                                        <button class="btn-view-trip-sm departure-btn m-1">View Trip</button>
+                                        <a href="bengaluru-to-ladakh.php" class="btn-view-trip-sm departure-btn m-1">View Trip</a>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                                     </div>
                                     <div class="d-flex justify-content-between departure-btn-wrap my-3">
                                         <button class="btn-enquire-more-sm departure-btn m-1">Enquire Now</button>
-                                        <button class="btn-view-trip-sm departure-btn m-1">View Trip</button>
+                                        <a href="bengaluru-to-ladakh.php" class="btn-view-trip-sm departure-btn m-1">View Trip</a>
                                     </div>
                                 </div>
                             </div>

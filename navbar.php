@@ -40,10 +40,10 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     </a>
 
                     <ul class="custom-dropdown-menu">
-                        <li><a href="#">Cross Border Expedition</a></li>
-                        <li><a href="#">Indian Expedition</a></li>
-                        <li><a href="#">Weekend Gateway</a></li>
-                        <li><a href="#">RC Exclusive</a></li>
+                        <li><a href="bengaluru-to-ladakh.php">Cross Border Expedition</a></li>
+                        <li><a href="bengaluru-to-ladakh.php">Indian Expedition</a></li>
+                        <li><a href="bengaluru-to-ladakh.php">Weekend Gateway</a></li>
+                        <li><a href="bengaluru-to-ladakh.php">RC Exclusive</a></li>
                     </ul>
                 </li>
 

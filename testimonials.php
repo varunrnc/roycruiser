@@ -16,7 +16,7 @@
         <div class="breadcrumb-content">
             <h1>Testimonials</h1>
             <nav class="breadcrumb-nav">
-                <a href="/">Home</a>
+                <a href="index.php">Home</a>
                 <span class="separator">/</span>
                 <span class="current">Testimonials</span>
             </nav>

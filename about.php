@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,7 +16,7 @@
         <div class="breadcrumb-content">
             <h1>About Us</h1>
             <nav class="breadcrumb-nav">
-                <a href="/">Home</a>
+                <a href="index.php">Home</a>
                 <span class="separator">/</span>
                 <span class="current">About Us</span>
             </nav>
@@ -27,6 +28,7 @@
 
     <!-- meet founders section  -->
     <?php include_once('./includes/meet-founder.php') ?>
+    
 
     <!-- why choose us  -->
     <?php include_once('./includes/why-choose-us.php') ?>

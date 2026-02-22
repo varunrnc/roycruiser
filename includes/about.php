@@ -43,7 +43,7 @@
                 </p>
             </div>
             <div class="text-center">
-                <button class="btn-read-more">Explore Now</button>
+                <a href="roy-cruiser.php" class="btn-read-more">Explore Now</a>
             </div>
         </div>
     </div>

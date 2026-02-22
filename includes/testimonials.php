@@ -2,8 +2,8 @@
     <div class="bg-overlay"></div>
     <div class="container-fluid">
         <div class="trending-header text-center" data-aos="zoom-in">
-            <h2 class="trending-title">Testimonials</h2>
-            <p class="trending-subtitle">
+            <h2 class="trusted-title">Testimonials</h2>
+            <p class="departures-subtitle">
                 Discover captivating tales of Adventures Overland travellers as they
                 traverse the world, sharing fascinating experiences from across the
                 globe.

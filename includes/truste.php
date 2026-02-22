@@ -17,7 +17,7 @@
                         <span style="color: #dc3545" class="fw-bold">Self-Drive</span>
                         of India
                     </h2>
-                    <p class="trusted-description">
+                    <p class="departures-subtitle mb-4">
                         Roy Cruiser is built for those who don’t just travel—they take command of the road. Founded 5 years ago by Rajesh Roy, Roy Cruiser was born from a relentless passion for self-drive expeditions, extreme terrains, and borderless road journeys.
                     </p>
                     <a href="about.php" class="btn-read-more">Read More</a>

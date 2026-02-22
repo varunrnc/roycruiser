@@ -1,8 +1,8 @@
 <section class="trending-section">
     <div class="container-fluid px-5">
         <div class="trending-header text-center" data-aos="fade-up">
-            <h2 class="trending-title">RC Trends</h2>
-            <p class="trending-subtitle">
+            <h2 class="trusted-title">RC Trends</h2>
+            <p class="departures-subtitle">
                 Explore the world with the best community of travelers on our guided
                 self-drive road trips.
             </p>

@@ -2,8 +2,8 @@
     <div class="bg-overlay"></div>
     <div class="container">
         <div class="trending-header text-center" data-aos="zoom-in">
-            <h2 class="trending-title">The <span style="color: #dc3545"><b>Roy Cruiser</b></span> Promise</h2>
-            <p class="trending-subtitle">
+            <h2 class="trusted-title">The <span style="color: #dc3545"><b>Roy Cruiser</b></span> Promise</h2>
+            <p class="departures-subtitle">
                 Curating and enabling incredible on-the-road experiences that are unlike anything else you can find.
             </p>
         </div>

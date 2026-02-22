@@ -17,7 +17,7 @@
         <div class="breadcrumb-content">
             <h1>Contact Us</h1>
             <nav class="breadcrumb-nav">
-                <a href="/">Home</a>
+                <a href="index.php">Home</a>
                 <span class="separator">/</span>
                 <span class="current">Contact Us</span>
             </nav>

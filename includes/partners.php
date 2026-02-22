@@ -1,8 +1,8 @@
 <section class="partner-section">
     <div class="container px-5">
         <div class="trending-header text-center" data-aos="fade-up">
-            <h2 class="trending-title">Our Partner</h2>
-            <p class="trending-subtitle">
+            <h2 class="trusted-title">Our Partner</h2>
+            <p class="departures-subtitle">
                 Explore the world with the best community of travelers on our guided
                 self-drive road trips.
             </p>

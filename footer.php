@@ -39,10 +39,10 @@
             <div class="footer-column">
                 <h3>About</h3>
                 <ul>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Awards & Achievement</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Our Trusted Partners</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="awards-and-achievements.php">Awards & Achievement</a></li>
+                    <li><a href="testimonials.php">Testimonials</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>
 
@@ -50,10 +50,10 @@
             <div class="footer-column">
                 <h3>Trips</h3>
                 <ul>
-                    <li><a href="#">Cross Border Expedition</a></li>
-                    <li><a href="#">Indian Expedition</a></li>
-                    <li><a href="#">Weekend Gateway</a></li>
-                    <li><a href="#">RC Exclusive</a></li>
+                    <li><a href="roy-cruiser.php">Cross Border Expedition</a></li>
+                    <li><a href="roy-cruiser.php">Indian Expedition</a></li>
+                    <li><a href="roy-cruiser.php">Weekend Gateway</a></li>
+                    <li><a href="roy-cruiser.php">RC Exclusive</a></li>
                 </ul>
             </div>
 
@@ -75,7 +75,7 @@
                     </div>
                     <div class="contact-details">
                         <h4>Have any questions?</h4>
-                        <p>+91 12345 67890</p>
+                        <p>+91 73584 10784</p>
                     </div>
                 </div>
 
