@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -31,6 +30,9 @@
 
     <!-- why choose us  -->
     <?php include_once('./includes/why-choose-us.php') ?>
+
+    <!-- rc-standard Section  -->
+    <?php include_once('./includes/rc-standard.php') ?>
 
     <!-- roy promise  -->
     <?php include_once('./includes/roy-promise.php') ?>

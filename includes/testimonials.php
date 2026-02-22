@@ -59,7 +59,7 @@
                                         arrangements – time just flew.
                                     </p>
 
-                                    <a href="#" class="read-more">Read More</a>
+                                    <a href="testimonials.php" class="read-more">Read More</a>
 
                                     <div class="footer">
                                         <div class="duration">
@@ -114,7 +114,7 @@
                                         arrangements – time just flew.
                                     </p>
 
-                                    <a href="#" class="read-more">Read More</a>
+                                    <a href="testimonials.php" class="read-more">Read More</a>
 
                                     <div class="footer">
                                         <div class="duration">
@@ -171,7 +171,7 @@
                                         arrangements – time just flew.
                                     </p>
 
-                                    <a href="#" class="read-more">Read More</a>
+                                    <a href="testimonials.php" class="read-more">Read More</a>
 
                                     <div class="footer">
                                         <div class="duration">
@@ -227,7 +227,7 @@
                                         arrangements – time just flew.
                                     </p>
 
-                                    <a href="#" class="read-more">Read More</a>
+                                    <a href="testimonials.php" class="read-more">Read More</a>
 
                                     <div class="footer">
                                         <div class="duration">
@@ -283,7 +283,7 @@
                                         arrangements – time just flew.
                                     </p>
 
-                                    <a href="#" class="read-more">Read More</a>
+                                    <a href="testimonials.php" class="read-more">Read More</a>
 
                                     <div class="footer">
                                         <div class="duration">

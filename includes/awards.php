@@ -63,13 +63,36 @@
             </div>
         </div>
 
-        <div class="row my-3">
+        <!-- <div class="row my-3">
             <div class="d-flex justify-content-center">
                 <div class="card shadow border-primary g-rating">
                     <div class="card-body d-flex justify-content-between align-items-center">
+                        <div class="row">
+
+                        </div>
                         <div>
                             <img src="./images/shapes/google-icon.svg" alt="google icon" class="img-fluid g-rating-logo">
                         </div>
+                        <div>
+                            <div class="d-flex justify-content-between">
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                            </div>
+                            <h6>4.9 Rating</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row my-3">
+            <div class="col-md-12 col-12 d-flex justify-content-center">
+                <div class="card shadow my-3 border-primary ms-achieved">
+                    <div class="card-body d-flex align-items-center justify-content-between">
+                        <img src="./images/shapes/google.png" alt="route" class="img-fluid w-25">
+
                         <div>
                             <div class="d-flex justify-content-between">
                                 <i class="bi bi-star-fill fs-4 text-warning"></i>
