@@ -31,7 +31,7 @@
                     <div class="card-body d-flex align-items-center justify-content-between">
                         <img src="./images/shapes/route-icon.webp" alt="route" class="img-fluid w-25">
                         <div>
-                            <h5 class="text-danger">100000+km</h5>
+                            <h5 class="text-danger">4,00,000+ KMS</h5>
                             <p>Driven across all seven continents</p>
                         </div>
                     </div>
@@ -43,8 +43,8 @@
                         <img src="./images/shapes/people-icon.webp" alt="route" class="img-fluid w-25">
 
                         <div>
-                            <h5 class="text-danger">1000+</h5>
-                            <p>Happy travelers turned explorers</p>
+                            <h5 class="text-danger">4000+</h5>
+                            <p>Happy Road Trippers</p>
                         </div>
                     </div>
                 </div>
@@ -55,8 +55,38 @@
                         <img src="./images/shapes/self-drive-icon.webp" alt="route" class="img-fluid w-25">
 
                         <div>
-                            <h5 class="text-danger ">80+</h5>
-                            <p>Self-drive expeditions organized globally</p>
+                            <h5 class="text-danger ">200+</h5>
+                            <p> Self Drive Road Trips</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-12 ">
+                <div class="card shadow my-3 border-primary ms-achieved">
+                    <div class="card-body d-flex align-items-center justify-content-between">
+                        <img src="./images/shapes/destination.webp" alt="route" class="img-fluid w-25">
+
+                        <div>
+                            <h5 class="text-danger ">100+</h5>
+                            <p> Destinations </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-12 ">
+                <div class="card shadow my-3 border-primary ms-achieved">
+                    <div class="card-body d-flex align-items-center justify-content-between">
+                        <img src="./images/shapes/google.png" alt="route" class="img-fluid w-25">
+
+                        <div>
+                            <div class="d-flex justify-content-between">
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                                <i class="bi bi-star-fill fs-4 text-warning"></i>
+                            </div>
+                            <h6>4.9 Rating</h6>
                         </div>
                     </div>
                 </div>
@@ -87,7 +117,7 @@
                 </div>
             </div>
         </div> -->
-        <div class="row my-3">
+        <!-- <div class="row my-3">
             <div class="col-md-12 col-12 d-flex justify-content-center">
                 <div class="card shadow my-3 border-primary ms-achieved">
                     <div class="card-body d-flex align-items-center justify-content-between">
@@ -106,6 +136,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
