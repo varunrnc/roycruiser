@@ -1858,7 +1858,9 @@ a {
     .partner-logo {
         width: 50% !important;
     }
-
+    .award-info p {
+        font-size: 14px;
+    }
 
 }
 

@@ -25,7 +25,7 @@
             </div>
         </div>
 
-        <div class="row my-3">
+        <div class="row my-3 award-info">
             <div class="col-md-4 col-12 ">
                 <div class="card shadow my-3 border-primary ms-achieved">
                     <div class="card-body d-flex align-items-center justify-content-between">
@@ -86,7 +86,7 @@
                                 <i class="bi bi-star-fill fs-4 text-warning"></i>
                                 <i class="bi bi-star-fill fs-4 text-warning"></i>
                             </div>
-                            <h6>4.9 Rating</h6>
+                            <p>4.9 Rated on Google</p>
                         </div>
                     </div>
                 </div>
